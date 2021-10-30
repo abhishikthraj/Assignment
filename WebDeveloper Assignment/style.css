@@ -1,0 +1,73 @@
+*{
+  padding: 0;
+  margin:0;
+}
+body{
+  max-width: 1200px;
+}
+.header-class{
+  background-color: #030303;
+  color: #fff;
+}
+.mobile-container{
+  max-width: 100%;
+}
+
+.image{
+  position: relative;
+  left: 5rem;  
+  width: 149%;
+}
+
+ul#menu li{
+  display: inline;
+}
+
+.h1{
+  font-size: 2rem;
+  font-family: revert, sans-serif;
+}
+
+#c3{
+  background-color: maroon;
+  color: maroon;
+}
+#pd{
+  background-color: #030303; 
+
+}
+h1{
+  font-size: 3rem
+}
+
+
+#icon{
+  background-image: url(Web/Search.svg);
+  background-position: right center;
+  background-repeat: no-repeat;
+  border-radius: 0;
+}
+#pad{
+}
+
+
+
+
+.right-container{
+  margin-left: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
